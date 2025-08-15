@@ -137,3 +137,9 @@ CALL sp_total_vendas();
 
 -- 7. Função para total gasto de um cliente específico
 SELECT fn_total_cliente(1) AS total_gasto;
+```
+## Exemplo de tabela:
+<img src="image.png" alt="Exemplo">
+
+
+
